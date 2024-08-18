@@ -1,5 +1,5 @@
 #Hi there 👋
-Welcome to my GitHub profile! I'm Omar A. Refaat, a passionate and dedicated student currently pursuing a Bachelor's degree in Healthcare Engineering and Management at Cairo University. My expected graduation is in 2026. I'm enthusiastic about software development, digital health, and biomedical signal processing.
+Welcome to my GitHub profile! I'm Omar A. Refaat, a passionate and dedicated student currently pursuing a Bachelor's degree in Biomedical and healthcare Data Engineering at Cairo University. My expected graduation is in 2026. I'm enthusiastic about software development, digital health, and biomedical signal processing.
 
 ## 🔭 I’m currently working on
 Developing innovative desktop applications using Python and PyQt5
